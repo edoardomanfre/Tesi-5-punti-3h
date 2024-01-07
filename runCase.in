@@ -1,0 +1,9 @@
+DataPath = C:\\Users\\User\\OneDrive - Scientific Network South Tyrol\\Desktop\\Tesi\\Github_Tesi_3_punti\\Tesi\\Input Data
+InputPath = C:\\Users\\User\\OneDrive - Scientific Network South Tyrol\\Desktop\\Tesi\\Github_Tesi_vecchio\\Tesi\\Risultati\\Input Data\\seg[5, 5]_NStates5\\2023-12-10_woEnv_woRampMedium_SDP
+ResultPath = C:\\Users\\User\\OneDrive - Scientific Network South Tyrol\\Desktop\\Tesi\\Github_Tesi_3_punti\\Tesi\\Risultati
+InputCase = 
+PriceYear = 2030
+PriceVar = -
+#ending to case name
+CaseName = Medium_SDP
+

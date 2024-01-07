@@ -1,0 +1,30 @@
+
+#problem definition
+    NHoursStage = 168
+    NStage = 52
+    NSeg = 5 5
+    NPrice = 1          
+    LimitPump = 2   
+
+#Decision problem
+    PenSpi = 0.001
+    PenQ = 1.0E5
+    AlphaMax = 1E16
+    NStep= 56
+
+#SDP parameters
+    conv = 0.1
+    MaxIt = 100
+
+#number of simulation scenarios
+    NSimScen = 100
+
+#Scenario lattice
+    #numbers of samples from which scenario lattice
+    NSamples = 10000
+    #number of states in scenario/state lattice
+    NStates = 5
+
+#General
+    Big = 1E16
+
